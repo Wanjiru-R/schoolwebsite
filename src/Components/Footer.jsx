@@ -69,7 +69,7 @@ const Footer = () => {
 
       {/* Copyright Section */}
       <div className="text-center text-gray-500 text-sm mt-8">
-        &copy; {new Date().getFullYear()} School Name. All Rights Reserved.
+        &copy; {new Date().getFullYear()} Bidii Schools. All Rights Reserved.
       </div>
     </footer>
   );

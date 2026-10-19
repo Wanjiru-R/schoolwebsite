@@ -3,19 +3,19 @@ const programs = [
   {
     title: "Science Stream",
     description:
-      "GVN offers Science Stream in Grade XI and XII with a package of pre-medical and pre-engineering classes to support student’s career in medical and engineering fields.",
+      "Bidii Schools offers Science Stream in Grade XI and XII with a package of pre-medical and pre-engineering classes to support student’s career in medical and engineering fields.",
     image: "https://www.premiercollege.edu.np/enroll/images/science.jpg",
   },
   {
     title: "Management Stream",
     description:
-      "GVN offers Management Stream with ample exposures to the business environment through excursions, industrial visits, and practical training.",
+      "Bidii Schools offers Management Stream with ample exposures to the business environment through excursions, industrial visits, and practical training.",
     image: "https://www.premiercollege.edu.np/enroll/images/management.jpg",
   },
   {
     title: "Humanities Stream",
     description:
-      "GVN offers Humanities and Social Science Stream with a wide range of choices in optional subjects and excursions to develop responsible citizens in the future.",
+      "Bidii Schools offers Humanities and Social Science Stream with a wide range of choices in optional subjects and excursions to develop responsible citizens in the future.",
     image: "https://www.premiercollege.edu.np/enroll/images/humanities.jpg",
   },
 ];

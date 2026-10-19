@@ -116,7 +116,7 @@ const Career = () => {
         <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="p-6 bg-white shadow-md rounded-lg">
             <p className="text-gray-700 italic">
-              "GVN School guided me toward becoming a successful software
+              "Bidii School guided me toward becoming a successful software
               engineer. The support from teachers was incredible!"
             </p>
             <h3 className="text-blue-600 font-bold mt-2">- Rajesh K.</h3>
