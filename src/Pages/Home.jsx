@@ -23,9 +23,31 @@ const Home = () => {
                 "url('https://cdn.pixabay.com/photo/2015/07/31/11/45/library-869061_1280.jpg')",
             }}
           >
-            <div className="bg-transparent bg-opacity-50 text-white p-10 rounded-lg text-center">
+            <div className="bg-transparent bg-opacity-50 text-blue-600 p-10 rounded-lg text-center">
               <h1 className="text-5xl md:text-6xl font-extrabold leading-tight mb-4">
-                Welcome to Bidii school
+                Welcome to Bidii Schools
+              </h1>
+              <p className="text-xl md:text-2xl mb-6">
+                Shaping young minds with passion and excellence.
+              </p>
+              <Link to="/admissions">
+                <button className="bg-white text-blue-600 hover:bg-blue-700 hover:text-white px-6 py-3 rounded-lg text-lg font-semibold transition duration-300">
+                  Apply Now
+                </button>
+              </Link>
+            </div>
+          </div>
+
+          <div
+            className="h-screen bg-cover bg-center flex items-center justify-center"
+            style={{
+              backgroundImage:
+                "url('https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D')",
+            }}
+          >
+            <div className="bg-transparent bg-opacity-50 text-blue-600 p-10 rounded-lg text-center">
+              <h1 className="text-5xl md:text-6xl font-extrabold leading-tight mb-4">
+                Excellence in Education
               </h1>
               <p className="text-xl md:text-2xl mb-6">
                 Shaping young minds with passion and excellence.
@@ -45,7 +67,7 @@ const Home = () => {
                 "url('https://cdn.pixabay.com/photo/2024/05/17/08/07/pupil-8767681_1280.jpg')",
             }}
           >
-            <div className="bg-transparent bg-opacity-50 text-white p-10 rounded-lg text-center">
+            <div className="bg-transparent bg-opacity-50 text-green-600 p-10 rounded-lg text-center">
               <h1 className="text-5xl md:text-6xl font-extrabold leading-tight mb-4">
                 Excellence in Education
               </h1>
@@ -67,7 +89,7 @@ const Home = () => {
                 "url('https://cdn.pixabay.com/photo/2024/05/31/14/46/ai-generated-8800717_1280.jpg')",
             }}
           >
-            <div className="bg-transparent bg-opacity-50 text-white p-10 rounded-lg text-center">
+            <div className="bg-transparent bg-opacity-50 text-green-600 p-10 rounded-lg text-center">
               <h1 className="text-5xl md:text-6xl font-extrabold leading-tight mb-4">
                 Holistic Learning Environment
               </h1>

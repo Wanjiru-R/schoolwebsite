@@ -84,7 +84,7 @@ const About = () => {
           {/* Team Member with hover transition */}
           <div className="p-6 bg-white shadow-md rounded-lg text-center transition-all duration-300 hover:scale-105 hover:shadow-lg">
             <img
-              src="https://cdn.pixabay.com/photo/2021/06/04/10/30/man-6309464_1280.jpg"
+              src="https://images.unsplash.com/photo-1757620765404-a1ee66df5e27?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
               alt="Principal"
               className="w-32 h-32 mx-auto rounded-full"
             />
@@ -94,7 +94,7 @@ const About = () => {
           {/* Team Member with hover transition */}
           <div className="p-6 bg-white shadow-md rounded-lg text-center transition-all duration-300 hover:scale-105 hover:shadow-lg">
             <img
-              src="https://cdn.pixabay.com/photo/2024/07/30/12/36/man-8932177_1280.png"
+              src="https://plus.unsplash.com/premium_vector-1724340657196-1496ba99038e?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
               alt="Phsyics Teacher"
               className="w-32 h-32 mx-auto rounded-full"
             />
@@ -104,7 +104,7 @@ const About = () => {
           {/* Team Member with hover transition */}
           <div className="p-6 bg-white shadow-md rounded-lg text-center transition-all duration-300 hover:scale-105 hover:shadow-lg">
             <img
-              src="https://cdn.pixabay.com/photo/2017/12/04/20/36/think-2997856_1280.jpg"
+              src="https://plus.unsplash.com/premium_vector-1683141132250-12daa3bd85cf?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
               alt="Chemistry Teacher"
               className="w-32 h-32 mx-auto rounded-full"
             />
