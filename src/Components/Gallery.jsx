@@ -2,12 +2,12 @@ import React from "react";
 import ModalImage from "react-modal-image";
 
 const images = [
-  { src: "/images/activity1.jpg", title: "Annual Sports Day" },
-  { src: "/images/activity2.jpg", title: "Science Exhibition" },
-  { src: "/images/activity3.jpg", title: "Art & Craft Workshop" },
-  { src: "/images/activity4.jpg", title: "Cultural Festival" },
-  { src: "/images/activity5.jpg", title: "Debate Competition" },
-  { src: "/images/activity6.jpg", title: "Robotics Club Showcase" },
+  { src: "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D", title: "Annual Sports Day" },
+  { src: "https://images.unsplash.com/photo-1518152006812-edab29b069ac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D", title: "Science Exhibition" },
+  { src: "https://images.unsplash.com/photo-1770129703548-e1ced0e4f118?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D", title: "Art & Craft Workshop" },
+  { src: "https://plus.unsplash.com/premium_photo-1670267552055-8f33a55c1af0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D", title: "Cultural Festival" },
+  { src: "https://images.unsplash.com/photo-1530099486328-e021101a494a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D", title: "Debate Competition" },
+  { src: "https://plus.unsplash.com/premium_photo-1676637656166-cb7b3a43b81a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D", title: "Robotics Club Showcase" },
 ];
 
 const Gallery = () => {
@@ -15,10 +15,10 @@ const Gallery = () => {
     <div className="bg-gray-50 min-h-screen py-16 px-6">
       <div className="max-w-7xl mx-auto text-center">
         <h2 className="text-4xl font-semibold mb-6 text-gray-800">
-          College Activities Gallery
+          school Activities Gallery
         </h2>
         <p className="text-lg text-gray-600 mb-12">
-          Explore the vibrant activities and events held at our college.
+          Explore the vibrant activities and events held at our school.
         </p>
       </div>
 
