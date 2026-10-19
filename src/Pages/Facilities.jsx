@@ -149,13 +149,13 @@ const Facilities = () => {
       {/* Virtual Tour Video */}
       <div className="max-w-6xl mx-auto py-12 text-center">
         <h3 className="text-3xl font-semibold text-gray-800 mb-6">
-          Take a Virtual Tour of Our Campus
+          Take a Virtual Tour of Our school
         </h3>
         <div className="relative w-full h-80">
           <iframe
             width="100%"
             height="100%"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Replace with actual virtual tour video URL
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
             title="YouTube video player"
             className="rounded-lg"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
