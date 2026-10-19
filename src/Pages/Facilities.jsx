@@ -171,7 +171,7 @@ const Facilities = () => {
         </h3>
         <div className="w-full">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5763.048786864224!2d81.61881041873617!3d28.059247147781633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3998671beed48441%3A0xeee48c12c19f2206!2sGVN%20Secondary%20School!5e0!3m2!1sen!2snp!4v1741672618033!5m2!1sen!2snp"
+           //src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5763.048786864224!2d81.61881041873617!3d28.059247147781633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3998671beed48441%3A0xeee48c12c19f2206!2s%Bidii%20International%20Schools!5e0!3m2!1sen!2snp!4v1741672618033!5m2!1sen!2snp"
             width="100%"
             height="450"
             style={{ border: 0 }}
@@ -184,12 +184,12 @@ const Facilities = () => {
 
       {/* Call to Action */}
       <div className="text-center py-12 bg-blue-600 text-white">
-        <h2 className="text-2xl font-semibold">Visit Our Campus</h2>
+        <h2 className="text-2xl font-semibold">Visit Our school</h2>
         <p className="mt-2">
           Schedule a tour and experience our top-notch facilities firsthand.
         </p>
         <button className="mt-4 bg-white text-blue-600 px-6 py-2 rounded-lg font-semibold">
-          Book a Campus Tour
+          Book a school Tour
         </button>
       </div>
     </div>

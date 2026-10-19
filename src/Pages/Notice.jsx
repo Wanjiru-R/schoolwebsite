@@ -3,24 +3,24 @@ import { Helmet } from "react-helmet";
 const notices = [
   {
     id: 1,
-    date: "March 15, 2025",
+    date: "March 15, 2027",
     title: "Annual Examination Schedule Released",
     description:
       "The final examination schedule for all grades has been released. Check the notice board for detailed timetables.",
   },
   {
     id: 2,
-    date: "March 10, 2025",
-    title: "Admission Open for 2025",
+    date: "March 10, 2027",
+    title: "Admission Open for 2027",
     description:
-      "Admissions for the academic year 2025 are now open. Apply before April 30, 2025, to secure your seat.",
+      "Admissions for the academic year 2027 are now open. Apply before April 30, 2027, to secure your seat.",
   },
   {
     id: 3,
-    date: "March 5, 2025",
+    date: "March 5, 2027",
     title: "School Picnic Announcement",
     description:
-      "The school picnic is scheduled for March 25, 2025. Students are requested to submit their consent forms by March 18.",
+      "The school picnic is scheduled for March 25, 2027. Students are requested to submit their consent forms by March 18.",
   },
 ];
 
@@ -29,7 +29,7 @@ const Notice = () => {
     <div className="bg-gray-100 min-h-screen p-0">
       {/* SEO Metadata */}
       <Helmet>
-        <title>Notices | GVN Secondary School</title>
+        <title>Notices | Bidii Schools</title>
         <meta
           name="description"
           content="Stay updated with the latest school notices and announcements."
